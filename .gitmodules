@@ -1,0 +1,3 @@
+[submodule "child-test-repo"]
+	path = child-test-repo
+	url = git@github.com:RzhanRichardZhan/child-test-repo.git
